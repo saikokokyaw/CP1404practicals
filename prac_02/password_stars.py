@@ -1,5 +1,5 @@
 """
-CP1404 - Practical 
+CP1404 -Practical
 Get a password with minimum length and display asterisks
 """
 def main():
