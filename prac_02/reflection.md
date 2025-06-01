@@ -5,7 +5,7 @@ Replace each `...` with your meaningful answer.
 
 ## What percentage of the lecture videos have you watched so far?
 
-68%
+67%
 
 ## What time, location and duration have you scheduled to watch lecture videos?
 
